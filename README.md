@@ -1,3 +1,5 @@
+(This plugin is not maintained)
+
 # Matomo DBHealth Plugin
 
 ## Description
